@@ -1,4 +1,4 @@
-# Expense Tracker Web App
+# Expense Tracker Web APP
 
 Welcome to the Expense Tracker Web App! This application is built using React.js for the front end, Node.js for the server, and MongoDB as the database. The UI is designed with Ant Design and Bootstrap. The app is hosted on Vercel, and you can access it [here](https://expense-tracker-mern-lghc.vercel.app/).
 
